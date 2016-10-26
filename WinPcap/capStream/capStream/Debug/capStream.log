@@ -1,0 +1,4 @@
+﻿  packetPrint.cpp
+g:\ws\programming\vsforweb\winpcap\capstream\capstream\packetprint.cpp(122): warning C4018: “<”: 有符号/无符号不匹配
+  capStream.vcxproj -> G:\ws\Programming\vsForWeb\WinPcap\capStream\Debug\capStream.exe
+  capStream.vcxproj -> G:\ws\Programming\vsForWeb\WinPcap\capStream\Debug\capStream.pdb (Full PDB)
